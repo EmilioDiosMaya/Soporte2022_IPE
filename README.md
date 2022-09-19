@@ -6,3 +6,5 @@ A continuación se mostrarán las ligas relacionadas al proyecto en cuanto a doc
 1. Documento de  elicitación: https://docs.google.com/document/d/1RTGYR_MNxF4UWxt93XxqZ4JcqVmd3kGl/edit?usp=sharing&ouid=105740289697573484648&rtpof=true&sd=true
 
 2. Documento de diagramas: https://drive.google.com/file/d/10ARWEBFdSLy8GN6in1KZYT_q_QRQqCTg/view?usp=sharing
+
+3. Documento de casos de uso: https://uvmx-my.sharepoint.com/:w:/g/personal/zs17012971_estudiantes_uv_mx/EZs0rQqBUPlJqEDh8P7Mti4BsYUDDIYkQlGJCKSkdXEDzQ?e=0KBJXq
